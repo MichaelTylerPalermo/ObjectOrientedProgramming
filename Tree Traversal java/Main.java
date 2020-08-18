@@ -1,4 +1,7 @@
-
+/*
+This code was created to help understand how to implement the 
+three types of tree traversal in java 
+*/
 public class Main {
 	
 	public static void main(String[] args) {
