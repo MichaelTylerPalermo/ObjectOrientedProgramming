@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.Set;
 import java.util.Stack;
 
-public class DepthFirstSearch {
+public class DepthorBreadthFirstSearch {
 	
 	public static void dfsPrint(Node start) {
 		Stack<Node> stack = new Stack<>();		//create a stack for nodes
