@@ -437,7 +437,7 @@ public class PlaylistPalermo {
 		if (oplc.toTextFile(filename)) {
 			System.out.println("Success!");
 		}else {
-			System.out.println("aw shiet");
+			System.out.println("Failure");
 		}
 	}
 }
